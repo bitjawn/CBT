@@ -3,3 +3,11 @@
 @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass";
 @import "../bower_components/font-awesome/scss/font-awesome";
 @import "custom";
+
+.header {
+	font-family: georgia, cursive, "MS Comic Strip", Serif, "Sans Serif";
+	font-weight: bolder;
+	font-size: 15pt;
+	color:$duke-blue;
+	word-spacing: -2px;
+}
