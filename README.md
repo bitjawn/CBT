@@ -4,10 +4,13 @@
 <p>Inspired via a YouTube crash course provided by <a href="https://youtu.be/pB7EwxwSfVk">Traversy Media</a>.</p>
 
 <ul>
-    <li>Built Using:</li>
-    <li>NodeJS: 7.10.0</li>
-    <li>NPM: 4.6.1</li>
-    <li>OS: Ubuntu 16.04</li>
+    <li>Built Using:
+        <ul>
+            <li>NodeJS: 7.10.0</li>
+            <li>NPM: 4.6.1</li>
+            <li>OS: Ubuntu 16.04</li>
+        </ul>
+    </li>
     <li>External Tools
         <ul>
             <li>Koala: 2.2.0</li>
