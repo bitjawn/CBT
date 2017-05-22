@@ -1,7 +1,7 @@
 # Custom BootStrap Theme
 <h3>A customized/customizable BootStrap theme.</h3>
 
-<p>Inspired via a YouTube crash course provided by <a href="https://youtu.be/pB7EwxwSfVk">Traversy Media</a></p>
+<p>Inspired via a YouTube crash course provided by <a href="https://youtu.be/pB7EwxwSfVk">Traversy Media</a>.</p>
 
 <ul>
     <li>NodeJS: 7.10.0</li>
